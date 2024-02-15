@@ -5,3 +5,7 @@ Here is one that can be used:
 https://github.com/mjs513/RA8875/tree/RA8875_t4
 
 Take a look at the PDF to use as a soldering guide if you are building the PCB from the Kit.
+LCD-PROTO PCB Components Guide.pdf
+
+.INO file is the Demo programe runngin in the Tenensy 4.1
+LCD_Proto.ino
