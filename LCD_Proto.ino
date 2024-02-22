@@ -11,7 +11,7 @@
 #include <WireKinetis.h>
 #include <WireIMXRT.h>
 #include <Wire.h>
-#include <RA8875_w_Touch_T4.h>
+#include <RA8875.h>
 
 #define RA8875_CS 10		//SPI Chip Select
 #define RA8875_RESET 255	//any pin or 255 to disable
