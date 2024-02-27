@@ -13,5 +13,8 @@ and uncomment this code(currently located on line 63):
 Take a look at the PDF to use as a soldering guide if you are building the PCB from the Kit.
 **LCD-PROTO PCB Components Guide.pdf**
 
+Tips for Assembly and Soldering is in the Wiki.
+**https://github.com/GremlinsInGame/LCD_PROTO_DOCS/wiki**
+
 .INO file is the Demo program running in the Teensy 4.1
 **LCD_Proto.ino**
